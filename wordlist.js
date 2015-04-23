@@ -152627,6 +152627,7 @@ WORDS = {
 "yards":1,
 "yardstick":1,
 "yardsticks":1,
+"yarharalc":1,
 "yarmelke":1,
 "yarmelkes":1,
 "yarmulke":1,
